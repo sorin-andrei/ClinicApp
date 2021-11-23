@@ -56,14 +56,23 @@ respecting the following requirements:
 - Use the doctor list from a)
 - At the end print a summary of the doctors, the number of patients consulted and the total
 amount billed.
+
 E.g.
+
 A, B – 1234: 18 patients, 390 minutes, 250 RON
+
 X, Y – 3331: 22 patients, 460 minutes, 310 RON
+
 M, N – 1233: 0 patients, 0 minutes, 0 RON
+
 - At the end print the list of patients which were not consulted (if any).
+
 E.g.
+
 A, B, 20 years, prescription
+
 C, D, 14 years, treatment
+
 E, F, 9 years, consultation
 
 30 points – code style/approach.
