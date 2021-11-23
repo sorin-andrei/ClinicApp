@@ -65,4 +65,5 @@ E.g.
 A, B, 20 years, prescription
 C, D, 14 years, treatment
 E, F, 9 years, consultation
+
 30 points – code style/approach.
