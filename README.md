@@ -26,17 +26,21 @@ Implement
 a) (10 points) Generate a list of doctors, respecting the following requirements:
 - The list must contain at least 8 doctors.
 - Each doctor will be generated following the rules:
+
 o First Name: 3 characters;
 o Last Name: 2 characters.
 o Age: between 30 and 65.
 o Identification number: 4 numbers, must be unique in the list
+
 b) (10 points) Generate a list of patients, respecting the following requirements:
 - The list must contain 100 patients.
 - Each patient will be generated following the rules:
+
 o First Name: 5 characters;
 o Last Name: 4 characters.
 o Age: between 0 and 85.
 o Reason: consultation, treatment or prescriptions.
+
 - The list must contain at least one patient from each age category and at least one patient for
 each consultation reason.
 
